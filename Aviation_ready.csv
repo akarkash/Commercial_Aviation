@@ -1,0 +1,900 @@
+,MKT_CARRIER,MKT_CARRIER_NAME,OP_CARRIER,OP_CARRIER_NAME,TOT_DEN_BOARDING,TOT_BOARDING,Date
+0,UA,United Air Lines Inc.,ZW,Air Wisconsin Airlines Corp,1,762892,2018-03
+1,UA,United Air Lines Inc.,ZW,Air Wisconsin Airlines Corp,0,1046874,2018-06
+2,UA,United Air Lines Inc.,ZW,Air Wisconsin Airlines Corp,0,979383,2018-09
+3,UA,United Air Lines Inc.,ZW,Air Wisconsin Airlines Corp,0,997846,2018-12
+4,UA,United Air Lines Inc.,ZW,Air Wisconsin Airlines Corp,1,926950,2019-03
+5,UA,United Air Lines Inc.,ZW,Air Wisconsin Airlines Corp,0,1077064,2019-06
+6,UA,United Air Lines Inc.,ZW,Air Wisconsin Airlines Corp,1,1078761,2019-09
+7,UA,United Air Lines Inc.,ZW,Air Wisconsin Airlines Corp,1,1045063,2019-12
+8,UA,United Air Lines Inc.,ZW,Air Wisconsin Airlines Corp,0,811231,2020-03
+9,UA,United Air Lines Inc.,ZW,Air Wisconsin Airlines Corp,0,56895,2020-06
+10,UA,United Air Lines Inc.,ZW,Air Wisconsin Airlines Corp,0,200074,2020-09
+11,UA,United Air Lines Inc.,ZW,Air Wisconsin Airlines Corp,0,375127,2020-12
+12,UA,United Air Lines Inc.,ZW,Air Wisconsin Airlines Corp,0,399854,2021-03
+13,UA,United Air Lines Inc.,ZW,Air Wisconsin Airlines Corp,2,698950,2021-06
+14,UA,United Air Lines Inc.,ZW,Air Wisconsin Airlines Corp,0,1047313,2021-09
+15,FL,AirTran Airways Corporation,FL,AirTran Airways Corporation,161,6121134,2010-12
+16,FL,AirTran Airways Corporation,FL,AirTran Airways Corporation,246,5604721,2011-03
+17,FL,AirTran Airways Corporation,FL,AirTran Airways Corporation,284,6704438,2011-06
+18,FL,AirTran Airways Corporation,FL,AirTran Airways Corporation,369,6533019,2011-09
+19,FL,AirTran Airways Corporation,FL,AirTran Airways Corporation,404,5855058,2011-12
+20,FL,AirTran Airways Corporation,FL,AirTran Airways Corporation,431,5188466,2012-03
+21,FL,AirTran Airways Corporation,FL,AirTran Airways Corporation,601,5990763,2012-06
+22,FL,AirTran Airways Corporation,FL,AirTran Airways Corporation,365,5658334,2012-09
+23,FL,AirTran Airways Corporation,FL,AirTran Airways Corporation,663,4906630,2012-12
+24,FL,AirTran Airways Corporation,FL,AirTran Airways Corporation,841,4525112,2013-03
+25,FL,AirTran Airways Corporation,FL,AirTran Airways Corporation,683,5031798,2013-06
+26,FL,AirTran Airways Corporation,FL,AirTran Airways Corporation,276,4452451,2013-09
+27,FL,AirTran Airways Corporation,FL,AirTran Airways Corporation,502,3822884,2013-12
+28,FL,AirTran Airways Corporation,FL,AirTran Airways Corporation,810,2761020,2014-03
+29,FL,AirTran Airways Corporation,FL,AirTran Airways Corporation,581,2692186,2014-06
+30,FL,AirTran Airways Corporation,FL,AirTran Airways Corporation,385,2027579,2014-09
+31,FL,AirTran Airways Corporation,FL,AirTran Airways Corporation,82,1090988,2014-12
+32,AS,Alaska Airlines Inc.,AS,Alaska Airlines Inc.,418,3852268,2010-12
+33,AS,Alaska Airlines Inc.,AS,Alaska Airlines Inc.,439,3759030,2011-03
+34,AS,Alaska Airlines Inc.,AS,Alaska Airlines Inc.,384,4242336,2011-06
+35,AS,Alaska Airlines Inc.,AS,Alaska Airlines Inc.,269,4590676,2011-09
+36,AS,Alaska Airlines Inc.,AS,Alaska Airlines Inc.,275,4008655,2011-12
+37,AS,Alaska Airlines Inc.,AS,Alaska Airlines Inc.,247,3910885,2012-03
+38,AS,Alaska Airlines Inc.,AS,Alaska Airlines Inc.,276,4478826,2012-06
+39,AS,Alaska Airlines Inc.,AS,Alaska Airlines Inc.,283,4767167,2012-09
+40,AS,Alaska Airlines Inc.,AS,Alaska Airlines Inc.,297,4218458,2012-12
+41,AS,Alaska Airlines Inc.,AS,Alaska Airlines Inc.,190,4203186,2013-03
+42,AS,Alaska Airlines Inc.,AS,Alaska Airlines Inc.,152,4780086,2013-06
+43,AS,Alaska Airlines Inc.,AS,Alaska Airlines Inc.,245,5098158,2013-09
+44,AS,Alaska Airlines Inc.,AS,Alaska Airlines Inc.,127,4436523,2013-12
+45,AS,Alaska Airlines Inc.,AS,Alaska Airlines Inc.,248,4384631,2014-03
+46,AS,Alaska Airlines Inc.,AS,Alaska Airlines Inc.,196,4999049,2014-06
+47,AS,Alaska Airlines Inc.,AS,Alaska Airlines Inc.,283,5517702,2014-09
+48,AS,Alaska Airlines Inc.,AS,Alaska Airlines Inc.,137,4937496,2014-12
+49,AS,Alaska Airlines Inc.,AS,Alaska Airlines Inc.,219,4975547,2015-03
+50,AS,Alaska Airlines Inc.,AS,Alaska Airlines Inc.,191,5624304,2015-06
+51,AS,Alaska Airlines Inc.,AS,Alaska Airlines Inc.,171,6064451,2015-09
+52,AS,Alaska Airlines Inc.,AS,Alaska Airlines Inc.,159,5430824,2015-12
+53,AS,Alaska Airlines Inc.,AS,Alaska Airlines Inc.,284,5344476,2016-03
+54,AS,Alaska Airlines Inc.,AS,Alaska Airlines Inc.,265,6059214,2016-06
+55,NA,Alaska Airlines Inc.,AS,Alaska Airlines Inc.,185,6321507,2016-09
+56,AS,Alaska Airlines Inc.,AS,Alaska Airlines Inc.,197,5665703,2016-12
+57,AS,Alaska Airlines Inc.,AS,Alaska Airlines Inc.,206,5595050,2017-03
+58,AS,Alaska Airlines Inc.,AS,Alaska Airlines Inc.,276,6520730,2017-06
+59,AS,Alaska Airlines Inc.,AS,Alaska Airlines Inc.,176,6702144,2017-09
+60,AS,Alaska Airlines Inc.,AS,Alaska Airlines Inc.,131,6103747,2017-12
+61,AS,Alaska Airlines Inc.,AS,Alaska Airlines Inc.,120,5844254,2018-03
+62,AS,Alaska Airlines Inc.,AS,Alaska Airlines Inc.,361,2426932,2018-06
+63,AS,Alaska Airlines Inc.,AS,Alaska Airlines Inc.,326,8923390,2018-06
+64,AS,Alaska Airlines Inc.,AS,Alaska Airlines Inc.,138,2593412,2018-09
+65,AS,Alaska Airlines Inc.,AS,Alaska Airlines Inc.,192,9274760,2018-09
+66,AS,Alaska Airlines Inc.,AS,Alaska Airlines Inc.,55,2565369,2018-12
+67,AS,Alaska Airlines Inc.,AS,Alaska Airlines Inc.,105,8260367,2018-12
+68,AS,Alaska Airlines Inc.,AS,Alaska Airlines Inc.,158,7612627,2019-03
+69,AS,Alaska Airlines Inc.,AS,Alaska Airlines Inc.,155,9035684,2019-06
+70,AS,Alaska Airlines Inc.,AS,Alaska Airlines Inc.,92,9563449,2019-09
+71,AS,Alaska Airlines Inc.,AS,Alaska Airlines Inc.,108,8547197,2019-12
+72,AS,Alaska Airlines Inc.,AS,Alaska Airlines Inc.,30,6420719,2020-03
+73,AS,Alaska Airlines Inc.,AS,Alaska Airlines Inc.,0,916543,2020-06
+74,AS,Alaska Airlines Inc.,AS,Alaska Airlines Inc.,0,2110763,2020-09
+75,AS,Alaska Airlines Inc.,AS,Alaska Airlines Inc.,0,2247354,2020-12
+76,AS,Alaska Airlines Inc.,AS,Alaska Airlines Inc.,2,3007066,2021-03
+77,AS,Alaska Airlines Inc.,AS,Alaska Airlines Inc.,33,5911527,2021-06
+78,AS,Alaska Airlines Inc.,AS,Alaska Airlines Inc.,32,6891202,2021-09
+79,G4,Allegiant Air,G4,Allegiant Air,58,3306693,2018-03
+80,G4,Allegiant Air,G4,Allegiant Air,0,3729600,2018-06
+81,G4,Allegiant Air,G4,Allegiant Air,78,3529711,2018-09
+82,G4,Allegiant Air,G4,Allegiant Air,66,3263797,2018-12
+83,G4,Allegiant Air,G4,Allegiant Air,510,3473390,2019-03
+84,G4,Allegiant Air,G4,Allegiant Air,123,4198976,2019-06
+85,G4,Allegiant Air,G4,Allegiant Air,2,3836145,2019-09
+86,G4,Allegiant Air,G4,Allegiant Air,2,3613426,2019-12
+87,G4,Allegiant Air,G4,Allegiant Air,0,3197140,2020-03
+88,G4,Allegiant Air,G4,Allegiant Air,0,1296542,2020-06
+89,G4,Allegiant Air,G4,Allegiant Air,0,2036795,2020-09
+90,G4,Allegiant Air,G4,Allegiant Air,0,2180397,2020-12
+91,G4,Allegiant Air,G4,Allegiant Air,0,2322946,2021-03
+92,G4,Allegiant Air,G4,Allegiant Air,0,3699217,2021-06
+93,G4,Allegiant Air,G4,Allegiant Air,0,3872651,2021-09
+94,AA,American Airlines Inc.,AA,American Airlines Inc.,2191,17751646,2011-03
+95,AA,American Airlines Inc.,AA,American Airlines Inc.,1660,19650620,2011-06
+96,AA,American Airlines Inc.,AA,American Airlines Inc.,1677,19890022,2011-09
+97,AA,American Airlines Inc.,AA,American Airlines Inc.,1458,18720802,2011-12
+98,AA,American Airlines Inc.,AA,American Airlines Inc.,1478,18320011,2012-03
+99,AA,American Airlines Inc.,AA,American Airlines Inc.,1349,19749730,2012-06
+100,AA,American Airlines Inc.,AA,American Airlines Inc.,1355,19277469,2012-09
+101,AA,American Airlines Inc.,AA,American Airlines Inc.,1389,18536509,2012-12
+102,AA,American Airlines Inc.,AA,American Airlines Inc.,1025,18267561,2013-03
+103,AA,American Airlines Inc.,AA,American Airlines Inc.,647,19581262,2013-06
+104,AA,American Airlines Inc.,AA,American Airlines Inc.,884,19549221,2013-09
+105,AA,American Airlines Inc.,AA,American Airlines Inc.,677,18664581,2013-12
+106,AA,American Airlines Inc.,AA,American Airlines Inc.,1264,18416989,2014-03
+107,AA,American Airlines Inc.,AA,American Airlines Inc.,696,19957730,2014-06
+108,AA,American Airlines Inc.,AA,American Airlines Inc.,508,19864969,2014-09
+109,AA,American Airlines Inc.,AA,American Airlines Inc.,720,18826185,2014-12
+110,AA,American Airlines Inc.,AA,American Airlines Inc.,1431,18101123,2015-03
+111,AA,American Airlines Inc.,AA,American Airlines Inc.,1089,20066407,2015-06
+112,AA,American Airlines Inc.,AA,American Airlines Inc.,2558,36891115,2015-09
+113,AA,American Airlines Inc.,AA,American Airlines Inc.,2426,22033306,2015-12
+114,AA,American Airlines Inc.,AA,American Airlines Inc.,2642,31360650,2016-03
+115,AA,American Airlines Inc.,AA,American Airlines Inc.,1800,34214085,2016-06
+116,NA,American Airlines Inc.,AA,American Airlines Inc.,2156,33773358,2016-09
+117,AA,American Airlines Inc.,AA,American Airlines Inc.,1714,31546560,2016-12
+118,AA,American Airlines Inc.,AA,American Airlines Inc.,2301,30582875,2017-03
+119,AA,American Airlines Inc.,AA,American Airlines Inc.,1904,33982409,2017-06
+120,AA,American Airlines Inc.,AA,American Airlines Inc.,312,33451848,2017-09
+121,AA,American Airlines Inc.,AA,American Airlines Inc.,416,32802049,2017-12
+122,AA,American Airlines Inc.,AA,American Airlines Inc.,233,12508268,2018-03
+123,AA,American Airlines Inc.,AA,American Airlines Inc.,483,31525870,2018-03
+124,NA,UNKNOWN,OH,Comair Inc.,49,1293985,2011-03
+125,AA,American Airlines Inc.,AA,American Airlines Inc.,194,14202068,2018-06
+126,AA,American Airlines Inc.,AA,American Airlines Inc.,195,34773590,2018-06
+127,AA,American Airlines Inc.,AA,American Airlines Inc.,403,14036150,2018-09
+128,AA,American Airlines Inc.,AA,American Airlines Inc.,363,34232162,2018-09
+129,AA,American Airlines Inc.,AA,American Airlines Inc.,1341,13609631,2018-12
+130,AA,American Airlines Inc.,AA,American Airlines Inc.,1573,33312446,2018-12
+131,AA,American Airlines Inc.,AA,American Airlines Inc.,1724,33083888,2019-03
+132,AA,American Airlines Inc.,AA,American Airlines Inc.,3298,36110590,2019-06
+133,AA,American Airlines Inc.,AA,American Airlines Inc.,1890,36283824,2019-09
+134,AA,American Airlines Inc.,AA,American Airlines Inc.,1071,35416937,2019-12
+135,AA,American Airlines Inc.,AA,American Airlines Inc.,465,27440927,2020-03
+136,AA,American Airlines Inc.,AA,American Airlines Inc.,85,5369982,2020-06
+137,AA,American Airlines Inc.,AA,American Airlines Inc.,638,13703995,2020-09
+138,AA,American Airlines Inc.,AA,American Airlines Inc.,28,14695523,2020-12
+139,AA,American Airlines Inc.,AA,American Airlines Inc.,80,14719488,2021-03
+140,AA,American Airlines Inc.,AA,American Airlines Inc.,408,28314308,2021-06
+141,AA,American Airlines Inc.,AA,American Airlines Inc.,480,31669647,2021-09
+142,UA,United Air Lines Inc.,C5,Commutair Aka Champlain Enterprises,0,521210,2018-09
+143,UA,United Air Lines Inc.,C5,Commutair Aka Champlain Enterprises,0,472007,2019-03
+144,UA,United Air Lines Inc.,C5,Commutair Aka Champlain Enterprises,0,557350,2019-06
+145,UA,United Air Lines Inc.,C5,Commutair Aka Champlain Enterprises,1,637151,2019-09
+146,UA,United Air Lines Inc.,C5,Commutair Aka Champlain Enterprises,0,630084,2019-12
+147,UA,United Air Lines Inc.,C5,Commutair Aka Champlain Enterprises,0,466376,2020-03
+148,UA,United Air Lines Inc.,C5,Commutair Aka Champlain Enterprises,0,51139,2020-06
+149,UA,United Air Lines Inc.,C5,Commutair Aka Champlain Enterprises,0,338370,2020-12
+150,UA,United Air Lines Inc.,C5,Commutair Aka Champlain Enterprises,0,414266,2021-03
+151,UA,United Air Lines Inc.,C5,Commutair Aka Champlain Enterprises,0,723597,2021-06
+152,UA,United Air Lines Inc.,C5,Commutair Aka Champlain Enterprises,6,830728,2021-09
+153,UA,United Air Lines Inc.,9K,Cape Air,0,31881,2018-03
+154,UA,United Air Lines Inc.,9K,Cape Air,0,22595,2018-06
+155,NA,UNKNOWN,OH,Comair Inc.,57,1597859,2010-12
+156,NA,UNKNOWN,OH,Comair Inc.,101,1487413,2011-06
+157,UA,United Air Lines Inc.,C5,Commutair Aka Champlain Enterprises,1,341028,2018-03
+158,UA,United Air Lines Inc.,C5,Commutair Aka Champlain Enterprises,1,477181,2018-06
+159,UA,United Air Lines Inc.,C5,Commutair Aka Champlain Enterprises,0,516022,2018-12
+160,UA,United Air Lines Inc.,C5,Commutair Aka Champlain Enterprises,0,140824,2020-09
+161,NA,UNKNOWN,CP,Compass Airlines,33,729569,2011-03
+162,DL,Delta Air Lines Inc.,CP,Compass Airlines,1,875981,2018-03
+163,DL,Delta Air Lines Inc.,CP,Compass Airlines,1,986856,2018-06
+164,DL,Delta Air Lines Inc.,CP,Compass Airlines,1,1033701,2018-09
+165,DL,Delta Air Lines Inc.,CP,Compass Airlines,1,985641,2018-12
+166,DL,Delta Air Lines Inc.,CP,Compass Airlines,0,960303,2019-03
+167,DL,Delta Air Lines Inc.,CP,Compass Airlines,0,1116997,2019-06
+168,DL,Delta Air Lines Inc.,CP,Compass Airlines,0,1056989,2019-09
+169,DL,Delta Air Lines Inc.,CP,Compass Airlines,0,679304,2019-12
+170,DL,Delta Air Lines Inc.,CP,Compass Airlines,0,360840,2020-03
+171,DL,Delta Air Lines Inc.,CP,Compass Airlines,0,155,2020-06
+172,NA,UNKNOWN,CO,Continental Air Lines Inc.,1366,9220356,2010-12
+173,NA,UNKNOWN,CO,Continental Air Lines Inc.,1298,8706805,2011-03
+174,NA,UNKNOWN,CO,Continental Air Lines Inc.,1712,10177417,2011-06
+175,NA,UNKNOWN,CO,Continental Air Lines Inc.,1657,10157979,2011-09
+176,NA,UNKNOWN,CO,Continental Air Lines Inc.,1077,9633366,2011-12
+177,DL,Delta Air Lines Inc.,DL,Delta Air Lines Inc.,704,24546433,2010-12
+178,DL,Delta Air Lines Inc.,DL,Delta Air Lines Inc.,656,22640522,2011-03
+179,DL,Delta Air Lines Inc.,DL,Delta Air Lines Inc.,763,26752092,2011-06
+180,DL,Delta Air Lines Inc.,DL,Delta Air Lines Inc.,1036,27524156,2011-09
+181,DL,Delta Air Lines Inc.,DL,Delta Air Lines Inc.,730,24550823,2011-12
+182,DL,Delta Air Lines Inc.,DL,Delta Air Lines Inc.,1023,23153402,2012-03
+183,DL,Delta Air Lines Inc.,DL,Delta Air Lines Inc.,1044,27142748,2012-06
+184,DL,Delta Air Lines Inc.,DL,Delta Air Lines Inc.,1254,28164144,2012-09
+185,DL,Delta Air Lines Inc.,DL,Delta Air Lines Inc.,2021,25496756,2012-12
+186,DL,Delta Air Lines Inc.,DL,Delta Air Lines Inc.,1277,24130377,2013-03
+187,DL,Delta Air Lines Inc.,DL,Delta Air Lines Inc.,2374,27642624,2013-06
+188,DL,Delta Air Lines Inc.,DL,Delta Air Lines Inc.,1060,28644455,2013-09
+189,DL,Delta Air Lines Inc.,DL,Delta Air Lines Inc.,1359,26365699,2013-12
+190,DL,Delta Air Lines Inc.,DL,Delta Air Lines Inc.,1878,25357895,2014-03
+191,DL,Delta Air Lines Inc.,DL,Delta Air Lines Inc.,1405,30361746,2014-06
+192,DL,Delta Air Lines Inc.,DL,Delta Air Lines Inc.,564,31309829,2014-09
+193,DL,Delta Air Lines Inc.,DL,Delta Air Lines Inc.,205,28707710,2014-12
+194,DL,Delta Air Lines Inc.,DL,Delta Air Lines Inc.,604,27561992,2015-03
+195,DL,Delta Air Lines Inc.,DL,Delta Air Lines Inc.,389,32706490,2015-06
+196,DL,Delta Air Lines Inc.,DL,Delta Air Lines Inc.,479,33714771,2015-09
+197,DL,Delta Air Lines Inc.,DL,Delta Air Lines Inc.,466,31061602,2015-12
+198,DL,Delta Air Lines Inc.,DL,Delta Air Lines Inc.,304,29449621,2016-03
+199,DL,Delta Air Lines Inc.,DL,Delta Air Lines Inc.,302,33838031,2016-06
+200,DL,Delta Air Lines Inc.,DL,Delta Air Lines Inc.,306,33949408,2016-09
+201,DL,Delta Air Lines Inc.,DL,Delta Air Lines Inc.,326,32044038,2016-12
+202,DL,Delta Air Lines Inc.,DL,Delta Air Lines Inc.,354,29863259,2017-03
+203,DL,Delta Air Lines Inc.,DL,Delta Air Lines Inc.,296,34575839,2017-06
+204,DL,Delta Air Lines Inc.,DL,Delta Air Lines Inc.,29,35357057,2017-09
+205,DL,Delta Air Lines Inc.,DL,Delta Air Lines Inc.,10,32506060,2017-12
+206,DL,Delta Air Lines Inc.,DL,Delta Air Lines Inc.,13,30868044,2018-03
+207,DL,Delta Air Lines Inc.,DL,Delta Air Lines Inc.,9,36208900,2018-06
+208,DL,Delta Air Lines Inc.,DL,Delta Air Lines Inc.,0,37139292,2018-09
+209,DL,Delta Air Lines Inc.,DL,Delta Air Lines Inc.,0,34570464,2018-12
+210,DL,Delta Air Lines Inc.,DL,Delta Air Lines Inc.,1,32597931,2019-03
+211,DL,Delta Air Lines Inc.,DL,Delta Air Lines Inc.,0,39153662,2019-06
+212,DL,Delta Air Lines Inc.,DL,Delta Air Lines Inc.,3,40050497,2019-09
+213,DL,Delta Air Lines Inc.,DL,Delta Air Lines Inc.,0,36796401,2019-12
+214,DL,Delta Air Lines Inc.,DL,Delta Air Lines Inc.,0,27870231,2020-03
+215,DL,Delta Air Lines Inc.,DL,Delta Air Lines Inc.,0,2956649,2020-06
+216,DL,Delta Air Lines Inc.,DL,Delta Air Lines Inc.,0,9298752,2020-09
+217,DL,Delta Air Lines Inc.,DL,Delta Air Lines Inc.,0,11484571,2020-12
+218,DL,Delta Air Lines Inc.,DL,Delta Air Lines Inc.,0,12861197,2021-03
+219,DL,Delta Air Lines Inc.,DL,Delta Air Lines Inc.,0,24200394,2021-06
+220,DL,Delta Air Lines Inc.,DL,Delta Air Lines Inc.,0,30691987,2021-09
+221,DL,Delta Air Lines Inc.,9E,Pinnacle Airlines Inc.,142,2527629,2010-12
+222,DL,Delta Air Lines Inc.,9E,Pinnacle Airlines Inc.,313,3029359,2013-03
+223,DL,Delta Air Lines Inc.,9E,Pinnacle Airlines Inc.,281,3350594,2013-06
+224,DL,Delta Air Lines Inc.,9E,Endeavor Air Inc.,240,3291022,2013-09
+225,DL,Delta Air Lines Inc.,9E,Endeavor Air Inc.,249,3036170,2013-12
+226,DL,Delta Air Lines Inc.,9E,Endeavor Air Inc.,4,2709157,2018-03
+227,DL,Delta Air Lines Inc.,9E,Endeavor Air Inc.,4,2709157,2018-03
+228,DL,Delta Air Lines Inc.,9E,Endeavor Air Inc.,1,3617308,2018-06
+229,DL,Delta Air Lines Inc.,9E,Endeavor Air Inc.,1,3617308,2018-06
+230,DL,Delta Air Lines Inc.,9E,Endeavor Air Inc.,0,3518387,2018-09
+231,DL,Delta Air Lines Inc.,9E,Endeavor Air Inc.,0,3518387,2018-09
+232,DL,Delta Air Lines Inc.,9E,Endeavor Air Inc.,2,3446544,2018-12
+233,DL,Delta Air Lines Inc.,9E,Endeavor Air Inc.,2,3446544,2018-12
+234,DL,Delta Air Lines Inc.,9E,Endeavor Air Inc.,0,3113553,2019-03
+235,DL,Delta Air Lines Inc.,9E,Endeavor Air Inc.,0,3113553,2019-03
+236,DL,Delta Air Lines Inc.,9E,Endeavor Air Inc.,0,3767698,2019-06
+237,DL,Delta Air Lines Inc.,9E,Endeavor Air Inc.,0,3767698,2019-06
+238,DL,Delta Air Lines Inc.,9E,Endeavor Air Inc.,0,3850464,2019-09
+239,DL,Delta Air Lines Inc.,9E,Endeavor Air Inc.,0,3850464,2019-09
+240,DL,Delta Air Lines Inc.,9E,Endeavor Air Inc.,0,3780820,2019-12
+241,DL,Delta Air Lines Inc.,9E,Endeavor Air Inc.,0,3780820,2019-12
+242,DL,Delta Air Lines Inc.,9E,Endeavor Air Inc.,0,2964249,2020-03
+243,DL,Delta Air Lines Inc.,9E,Endeavor Air Inc.,0,2964249,2020-03
+244,DL,Delta Air Lines Inc.,9E,Endeavor Air Inc.,0,404077,2020-06
+245,DL,Delta Air Lines Inc.,9E,Endeavor Air Inc.,0,404077,2020-06
+246,DL,Delta Air Lines Inc.,9E,Endeavor Air Inc.,0,1550894,2020-09
+247,DL,Delta Air Lines Inc.,9E,Endeavor Air Inc.,0,1550894,2020-09
+248,DL,Delta Air Lines Inc.,9E,Endeavor Air Inc.,0,2013531,2020-12
+249,DL,Delta Air Lines Inc.,9E,Endeavor Air Inc.,0,2013531,2020-12
+250,DL,Delta Air Lines Inc.,9E,Endeavor Air Inc.,0,1940986,2021-03
+251,DL,Delta Air Lines Inc.,9E,Endeavor Air Inc.,0,1940986,2021-03
+252,DL,Delta Air Lines Inc.,9E,Endeavor Air Inc.,0,3517547,2021-06
+253,DL,Delta Air Lines Inc.,9E,Endeavor Air Inc.,0,3517547,2021-06
+254,DL,Delta Air Lines Inc.,9E,Endeavor Air Inc.,0,3824655,2021-09
+255,DL,Delta Air Lines Inc.,9E,Endeavor Air Inc.,0,3824655,2021-09
+256,NA,UNKNOWN,MQ,American Eagle Airlines Inc.,994,3627278,2011-03
+257,NA,UNKNOWN,MQ,American Eagle Airlines Inc.,1345,4377094,2011-06
+258,NA,UNKNOWN,MQ,American Eagle Airlines Inc.,827,4449341,2011-09
+259,NA,UNKNOWN,MQ,American Eagle Airlines Inc.,593,4293651,2011-12
+260,NA,UNKNOWN,MQ,American Eagle Airlines Inc.,603,4098471,2012-03
+261,NA,UNKNOWN,MQ,American Eagle Airlines Inc.,528,4820334,2012-06
+262,NA,UNKNOWN,MQ,American Eagle Airlines Inc.,402,4762988,2012-09
+263,NA,UNKNOWN,MQ,American Eagle Airlines Inc.,412,4433663,2012-12
+264,NA,UNKNOWN,MQ,American Eagle Airlines Inc.,543,3970731,2013-03
+265,NA,UNKNOWN,MQ,American Eagle Airlines Inc.,509,4420134,2013-06
+266,NA,UNKNOWN,MQ,American Eagle Airlines Inc.,323,4449933,2013-09
+267,NA,UNKNOWN,MQ,American Eagle Airlines Inc.,548,4098294,2013-12
+268,NA,UNKNOWN,MQ,American Eagle Airlines Inc.,766,3712100,2014-03
+269,NA,UNKNOWN,MQ,Envoy Air,702,4146074,2014-06
+270,NA,UNKNOWN,MQ,Envoy Air,422,3940167,2014-09
+271,NA,UNKNOWN,MQ,Envoy Air,611,3643382,2014-12
+272,NA,UNKNOWN,MQ,Envoy Air,784,3094217,2015-03
+273,NA,UNKNOWN,MQ,Envoy Air,924,3255510,2015-06
+274,NA,UNKNOWN,MQ,Envoy Air,529,2958349,2015-09
+275,NA,UNKNOWN,MQ,Envoy Air,555,2592952,2015-12
+276,NA,UNKNOWN,MQ,Envoy Air,491,2389463,2016-03
+277,NA,UNKNOWN,MQ,Envoy Air,835,2987199,2016-06
+278,NA,UNKNOWN,MQ,Envoy Air,737,3209128,2016-09
+279,NA,UNKNOWN,MQ,Envoy Air,394,2937726,2016-12
+280,NA,UNKNOWN,MQ,Envoy Air,59,2943408,2018-03
+281,NA,UNKNOWN,MQ,Envoy Air,61,3415654,2018-06
+282,NA,UNKNOWN,MQ,Envoy Air,161,3388554,2018-09
+283,NA,UNKNOWN,MQ,Envoy Air,453,3303994,2018-12
+284,NA,UNKNOWN,MQ,Envoy Air,490,3137713,2019-03
+285,NA,UNKNOWN,MQ,Envoy Air,537,3751462,2019-06
+286,NA,UNKNOWN,MQ,Envoy Air,561,3861879,2019-09
+287,NA,UNKNOWN,MQ,Envoy Air,544,3703185,2019-12
+288,NA,UNKNOWN,MQ,Envoy Air,281,2863191,2020-03
+289,NA,UNKNOWN,MQ,Envoy Air,26,847305,2020-06
+290,NA,UNKNOWN,MQ,Envoy Air,132,1994013,2020-09
+291,NA,UNKNOWN,MQ,Envoy Air,30,2164410,2020-12
+292,NA,UNKNOWN,MQ,Envoy Air,32,2172455,2021-03
+293,NA,UNKNOWN,MQ,Envoy Air,115,3409015,2021-06
+294,NA,UNKNOWN,MQ,Envoy Air,76,3628897,2021-09
+295,NA,UNKNOWN,XE,ExpressJet Airlines Inc.,664,3893575,2010-12
+296,NA,UNKNOWN,XE,ExpressJet Airlines Inc.,556,3512336,2011-03
+297,NA,UNKNOWN,XE,ExpressJet Airlines Inc.,811,4339911,2011-06
+298,NA,UNKNOWN,XE,ExpressJet Airlines Inc.,919,4367314,2011-09
+299,NA,UNKNOWN,XE,ExpressJet Airlines Inc.,678,4062518,2011-12
+300,NA,UNKNOWN,EV,Atlantic Southeast Airlines,165,3527999,2010-12
+301,NA,UNKNOWN,EV,Atlantic Southeast Airlines,179,3185462,2011-03
+302,NA,UNKNOWN,EV,Atlantic Southeast Airlines,346,3708749,2011-06
+303,NA,UNKNOWN,EV,Atlantic Southeast Airlines,393,3723441,2011-09
+304,NA,UNKNOWN,EV,Atlantic Southeast Airlines,366,3426978,2011-12
+305,NA,UNKNOWN,EV,ExpressJet Airlines Inc.,1301,6940687,2012-03
+306,NA,UNKNOWN,EV,ExpressJet Airlines Inc.,1577,7989888,2012-06
+307,NA,UNKNOWN,EV,ExpressJet Airlines Inc.,2009,8193856,2012-09
+308,NA,UNKNOWN,EV,ExpressJet Airlines Inc.,1677,7729179,2012-12
+309,NA,UNKNOWN,EV,ExpressJet Airlines Inc.,1763,7107265,2013-03
+310,NA,UNKNOWN,EV,ExpressJet Airlines Inc.,1593,8226123,2013-06
+311,NA,UNKNOWN,EV,ExpressJet Airlines Inc.,1158,8253891,2013-09
+312,NA,UNKNOWN,EV,ExpressJet Airlines Inc.,1908,7769435,2013-12
+313,NA,UNKNOWN,EV,ExpressJet Airlines Inc.,2810,6805801,2014-03
+314,NA,UNKNOWN,EV,ExpressJet Airlines Inc.,2784,7735969,2014-06
+315,NA,UNKNOWN,EV,ExpressJet Airlines Inc.,1120,7834239,2014-09
+316,NA,UNKNOWN,EV,ExpressJet Airlines Inc.,1247,6968965,2014-12
+317,NA,UNKNOWN,EV,ExpressJet Airlines Inc.,1312,6083566,2015-03
+318,NA,UNKNOWN,EV,ExpressJet Airlines Inc.,1338,6567149,2015-06
+319,NA,UNKNOWN,EV,ExpressJet Airlines Inc.,962,6328398,2015-09
+320,NA,UNKNOWN,EV,ExpressJet Airlines Inc.,996,5757488,2015-12
+321,NA,UNKNOWN,EV,ExpressJet Airlines Inc.,757,5175359,2016-03
+322,NA,UNKNOWN,EV,ExpressJet Airlines Inc.,847,5498667,2016-06
+323,NA,UNKNOWN,EV,ExpressJet Airlines Inc.,937,5445840,2016-09
+324,NA,UNKNOWN,EV,ExpressJet Airlines Inc.,641,5019172,2016-12
+325,NA,UNKNOWN,EV,ExpressJet Airlines Inc.,507,4137528,2017-03
+326,NA,UNKNOWN,EV,ExpressJet Airlines Inc.,256,4061138,2017-06
+327,NA,UNKNOWN,EV,ExpressJet Airlines Inc.,22,3540146,2017-09
+328,NA,UNKNOWN,EV,ExpressJet Airlines Inc.,7,2977522,2017-12
+329,DL,Delta Air Lines Inc.,EV,ExpressJet Airlines Inc.,0,713060,2018-03
+330,UA,United Air Lines Inc.,EV,ExpressJet Airlines Inc.,2,1425341,2018-03
+331,NA,UNKNOWN,EV,ExpressJet Airlines Inc.,3,2411261,2018-03
+332,DL,Delta Air Lines Inc.,EV,ExpressJet Airlines Inc.,0,566909,2018-06
+333,UA,United Air Lines Inc.,EV,ExpressJet Airlines Inc.,1,1460502,2018-06
+334,NA,UNKNOWN,EV,ExpressJet Airlines Inc.,12,2350886,2018-06
+335,DL,Delta Air Lines Inc.,EV,ExpressJet Airlines Inc.,0,358858,2018-09
+336,UA,United Air Lines Inc.,EV,ExpressJet Airlines Inc.,0,1423293,2018-09
+337,NA,UNKNOWN,EV,ExpressJet Airlines Inc.,3,2175952,2018-09
+338,DL,Delta Air Lines Inc.,EV,ExpressJet Airlines Inc.,0,88217,2018-12
+339,UA,United Air Lines Inc.,EV,ExpressJet Airlines Inc.,7,1539834,2018-12
+340,NA,UNKNOWN,EV,ExpressJet Airlines Inc.,22,1835755,2018-12
+341,UA,United Air Lines Inc.,EV,ExpressJet Airlines Inc.,1,1447984,2019-03
+342,NA,UNKNOWN,EV,ExpressJet Airlines Inc.,1,1454843,2019-03
+343,UA,United Air Lines Inc.,EV,ExpressJet Airlines LLC,1,1257349,2019-06
+344,NA,UNKNOWN,EV,ExpressJet Airlines LLC,1,1257349,2019-06
+345,UA,United Air Lines Inc.,EV,ExpressJet Airlines LLC,0,1433425,2019-09
+346,NA,UNKNOWN,EV,ExpressJet Airlines LLC,0,1433425,2019-09
+347,UA,United Air Lines Inc.,EV,ExpressJet Airlines LLC,1,1467237,2019-12
+348,NA,UNKNOWN,EV,ExpressJet Airlines LLC,1,1467237,2019-12
+349,UA,United Air Lines Inc.,EV,ExpressJet Airlines LLC,0,1239445,2020-03
+350,NA,UNKNOWN,EV,ExpressJet Airlines LLC,0,1239445,2020-03
+351,UA,United Air Lines Inc.,EV,ExpressJet Airlines LLC,0,115481,2020-06
+352,NA,UNKNOWN,EV,ExpressJet Airlines LLC,0,115481,2020-06
+353,UA,United Air Lines Inc.,EV,ExpressJet Airlines LLC,0,227234,2020-09
+354,NA,UNKNOWN,EV,ExpressJet Airlines LLC,0,227234,2020-09
+355,F9,Frontier Airlines Inc.,F9,Frontier Airlines Inc.,188,2241300,2010-12
+356,F9,Frontier Airlines Inc.,F9,Frontier Airlines Inc.,233,2090355,2011-03
+357,F9,Frontier Airlines Inc.,F9,Frontier Airlines Inc.,248,2638684,2011-06
+358,F9,Frontier Airlines Inc.,F9,Frontier Airlines Inc.,330,3045475,2011-09
+359,F9,Frontier Airlines Inc.,F9,Frontier Airlines Inc.,212,2721582,2011-12
+360,F9,Frontier Airlines Inc.,F9,Frontier Airlines Inc.,109,2409538,2012-03
+361,F9,Frontier Airlines Inc.,F9,Frontier Airlines Inc.,261,2597591,2012-06
+362,F9,Frontier Airlines Inc.,F9,Frontier Airlines Inc.,333,2779046,2012-09
+363,F9,Frontier Airlines Inc.,F9,Frontier Airlines Inc.,105,2537924,2012-12
+364,F9,Frontier Airlines Inc.,F9,Frontier Airlines Inc.,180,2264114,2013-03
+365,F9,Frontier Airlines Inc.,F9,Frontier Airlines Inc.,357,2589674,2013-06
+366,F9,Frontier Airlines Inc.,F9,Frontier Airlines Inc.,416,2842615,2013-09
+367,F9,Frontier Airlines Inc.,F9,Frontier Airlines Inc.,319,2665493,2013-12
+368,F9,Frontier Airlines Inc.,F9,Frontier Airlines Inc.,286,2401997,2014-03
+369,F9,Frontier Airlines Inc.,F9,Frontier Airlines Inc.,349,2937116,2014-06
+370,F9,Frontier Airlines Inc.,F9,Frontier Airlines Inc.,540,3323385,2014-09
+371,F9,Frontier Airlines Inc.,F9,Frontier Airlines Inc.,441,3125104,2014-12
+372,F9,Frontier Airlines Inc.,F9,Frontier Airlines Inc.,209,2632410,2015-03
+373,F9,Frontier Airlines Inc.,F9,Frontier Airlines Inc.,253,2962152,2015-06
+374,F9,Frontier Airlines Inc.,F9,Frontier Airlines Inc.,390,3201831,2015-09
+375,F9,Frontier Airlines Inc.,F9,Frontier Airlines Inc.,380,3547147,2015-12
+376,F9,Frontier Airlines Inc.,F9,Frontier Airlines Inc.,161,3151585,2016-03
+377,F9,Frontier Airlines Inc.,F9,Frontier Airlines Inc.,274,3614118,2016-06
+378,F10,Frontier Airlines Inc.,F9,Frontier Airlines Inc.,253,4129349,2016-09
+379,F9,Frontier Airlines Inc.,F9,Frontier Airlines Inc.,163,3771280,2016-12
+380,F9,Frontier Airlines Inc.,F9,Frontier Airlines Inc.,167,3582185,2017-03
+381,F9,Frontier Airlines Inc.,F9,Frontier Airlines Inc.,203,4138695,2017-06
+382,F9,Frontier Airlines Inc.,F9,Frontier Airlines Inc.,170,4339063,2017-09
+383,F9,Frontier Airlines Inc.,F9,Frontier Airlines Inc.,403,4538268,2017-12
+384,F9,Frontier Airlines Inc.,F9,Frontier Airlines Inc.,188,4416868,2018-03
+385,F9,Frontier Airlines Inc.,F9,Frontier Airlines Inc.,255,4946148,2018-06
+386,F9,Frontier Airlines Inc.,F9,Frontier Airlines Inc.,519,5128189,2018-09
+387,F9,Frontier Airlines Inc.,F9,Frontier Airlines Inc.,257,4932227,2018-12
+388,F9,Frontier Airlines Inc.,F9,Frontier Airlines Inc.,168,5128189,2019-03
+389,F9,Frontier Airlines Inc.,F9,Frontier Airlines Inc.,184,5128189,2019-06
+390,F9,Frontier Airlines Inc.,F9,Frontier Airlines Inc.,230,5731264,2019-09
+391,F9,Frontier Airlines Inc.,F9,Frontier Airlines Inc.,249,5764965,2019-12
+392,F9,Frontier Airlines Inc.,F9,Frontier Airlines Inc.,96,4685687,2020-03
+393,F9,Frontier Airlines Inc.,F9,Frontier Airlines Inc.,45,690113,2020-06
+394,F9,Frontier Airlines Inc.,F9,Frontier Airlines Inc.,64,2508125,2020-09
+395,F9,Frontier Airlines Inc.,F9,Frontier Airlines Inc.,51,2619595,2020-12
+396,F9,Frontier Airlines Inc.,F9,Frontier Airlines Inc.,223,4812979,2021-03
+397,F9,Frontier Airlines Inc.,F9,Frontier Airlines Inc.,334,5456373,2021-06
+398,F9,Frontier Airlines Inc.,F9,Frontier Airlines Inc.,619,5776460,2021-09
+399,UA,United Air Lines Inc.,G7,GoJet Airlines LLC d/b/a United Express,48,537470,2011-03
+400,DL,Delta Air Lines Inc.,G7,GoJet Airlines LLC d/b/a United Express,0,633986,2018-03
+401,UA,United Air Lines Inc.,G7,GoJet Airlines LLC d/b/a United Express,0,563007,2018-03
+402,DL,Delta Air Lines Inc.,G7,GoJet Airlines LLC d/b/a United Express,0,733301,2018-06
+403,UA,United Air Lines Inc.,G7,GoJet Airlines LLC d/b/a United Express,2,575152,2018-06
+404,DL,Delta Air Lines Inc.,G7,GoJet Airlines LLC d/b/a United Express,1,760653,2018-09
+405,UA,United Air Lines Inc.,G7,GoJet Airlines LLC d/b/a United Express,1,603085,2018-09
+406,DL,Delta Air Lines Inc.,G7,GoJet Airlines LLC d/b/a United Express,0,698885,2018-12
+407,UA,United Air Lines Inc.,G7,GoJet Airlines LLC d/b/a United Express,0,564690,2018-12
+408,DL,Delta Air Lines Inc.,G7,GoJet Airlines LLC d/b/a United Express,0,635400,2019-03
+409,UA,United Air Lines Inc.,G7,GoJet Airlines LLC d/b/a United Express,1,492554,2019-03
+410,DL,Delta Air Lines Inc.,G7,GoJet Airlines LLC d/b/a United Express,0,714202,2019-06
+411,UA,United Air Lines Inc.,G7,GoJet Airlines LLC d/b/a United Express,0,583555,2019-06
+412,DL,Delta Air Lines Inc.,G7,GoJet Airlines LLC d/b/a United Express,0,692048,2019-09
+413,UA,United Air Lines Inc.,G7,GoJet Airlines LLC d/b/a United Express,0,422889,2019-09
+414,DL,Delta Air Lines Inc.,G7,GoJet Airlines LLC d/b/a United Express,0,500780,2019-12
+415,UA,United Air Lines Inc.,G7,GoJet Airlines LLC d/b/a United Express,0,443592,2019-12
+416,DL,Delta Air Lines Inc.,G7,GoJet Airlines LLC d/b/a United Express,0,182510,2020-03
+417,UA,United Air Lines Inc.,G7,GoJet Airlines LLC d/b/a United Express,0,400263,2020-03
+418,DL,Delta Air Lines Inc.,G7,GoJet Airlines LLC d/b/a United Express,0,75,2020-06
+419,UA,United Air Lines Inc.,G7,GoJet Airlines LLC d/b/a United Express,0,58770,2020-06
+420,UA,United Air Lines Inc.,G7,GoJet Airlines LLC d/b/a United Express,0,204241,2020-09
+421,UA,United Air Lines Inc.,G7,GoJet Airlines LLC d/b/a United Express,0,342329,2020-12
+422,UA,United Air Lines Inc.,G7,GoJet Airlines LLC d/b/a United Express,0,338451,2021-03
+423,UA,United Air Lines Inc.,G7,GoJet Airlines LLC d/b/a United Express,1,580826,2021-06
+424,UA,United Air Lines Inc.,G7,GoJet Airlines LLC d/b/a United Express,3,770737,2021-09
+425,HA,Hawaiian Airlines Inc.,HA,Hawaiian Airlines Inc.,2,2097578,2010-12
+426,HA,Hawaiian Airlines Inc.,HA,Hawaiian Airlines Inc.,25,2089095,2011-03
+427,HA,Hawaiian Airlines Inc.,HA,Hawaiian Airlines Inc.,9,2151581,2011-06
+428,HA,Hawaiian Airlines Inc.,HA,Hawaiian Airlines Inc.,3,2266585,2011-09
+429,HA,Hawaiian Airlines Inc.,HA,Hawaiian Airlines Inc.,55,2152144,2011-12
+430,HA,Hawaiian Airlines Inc.,HA,Hawaiian Airlines Inc.,80,2218145,2012-03
+431,HA,Hawaiian Airlines Inc.,HA,Hawaiian Airlines Inc.,11,2328787,2012-06
+432,HA,Hawaiian Airlines Inc.,HA,Hawaiian Airlines Inc.,36,2518738,2012-09
+433,HA,Hawaiian Airlines Inc.,HA,Hawaiian Airlines Inc.,41,2410581,2012-12
+434,HA,Hawaiian Airlines Inc.,HA,Hawaiian Airlines Inc.,51,2397157,2013-03
+435,HA,Hawaiian Airlines Inc.,HA,Hawaiian Airlines Inc.,56,2481456,2013-06
+436,HA,Hawaiian Airlines Inc.,HA,Hawaiian Airlines Inc.,21,2644328,2013-09
+437,HA,Hawaiian Airlines Inc.,HA,Hawaiian Airlines Inc.,44,2405889,2013-12
+438,HA,Hawaiian Airlines Inc.,HA,Hawaiian Airlines Inc.,25,2400372,2014-03
+439,HA,Hawaiian Airlines Inc.,HA,Hawaiian Airlines Inc.,10,2505196,2014-06
+440,HA,Hawaiian Airlines Inc.,HA,Hawaiian Airlines Inc.,81,2671867,2014-09
+441,HA,Hawaiian Airlines Inc.,HA,Hawaiian Airlines Inc.,0,2507376,2014-12
+442,HA,Hawaiian Airlines Inc.,HA,Hawaiian Airlines Inc.,7,2472431,2015-03
+443,HA,Hawaiian Airlines Inc.,HA,Hawaiian Airlines Inc.,2,2605895,2015-06
+444,HA,Hawaiian Airlines Inc.,HA,Hawaiian Airlines Inc.,12,2775894,2015-09
+445,HA,Hawaiian Airlines Inc.,HA,Hawaiian Airlines Inc.,8,2608124,2015-12
+446,HA,Hawaiian Airlines Inc.,HA,Hawaiian Airlines Inc.,2,2599123,2016-03
+447,HA,Hawaiian Airlines Inc.,HA,Hawaiian Airlines Inc.,18,2700783,2016-06
+448,HA,Hawaiian Airlines Inc.,HA,Hawaiian Airlines Inc.,10,2854932,2016-09
+449,HA,Hawaiian Airlines Inc.,HA,Hawaiian Airlines Inc.,19,2669657,2016-12
+450,HA,Hawaiian Airlines Inc.,HA,Hawaiian Airlines Inc.,55,2649691,2017-03
+451,HA,Hawaiian Airlines Inc.,HA,Hawaiian Airlines Inc.,22,2829910,2017-06
+452,HA,Hawaiian Airlines Inc.,HA,Hawaiian Airlines Inc.,15,2943133,2017-09
+453,HA,Hawaiian Airlines Inc.,HA,Hawaiian Airlines Inc.,9,2710707,2017-12
+454,HA,Hawaiian Airlines Inc.,HA,Hawaiian Airlines Inc.,0,55965,2018-03
+455,HA,Hawaiian Airlines Inc.,HA,Hawaiian Airlines Inc.,2,2676265,2018-03
+456,HA,Hawaiian Airlines Inc.,HA,Hawaiian Airlines Inc.,0,50420,2018-06
+457,HA,Hawaiian Airlines Inc.,HA,Hawaiian Airlines Inc.,2,2804422,2018-06
+458,HA,Hawaiian Airlines Inc.,HA,Hawaiian Airlines Inc.,0,50158,2018-09
+459,HA,Hawaiian Airlines Inc.,HA,Hawaiian Airlines Inc.,3,2802150,2018-09
+460,HA,Hawaiian Airlines Inc.,HA,Hawaiian Airlines Inc.,0,49891,2018-12
+461,HA,Hawaiian Airlines Inc.,HA,Hawaiian Airlines Inc.,6,2680823,2018-12
+462,HA,Hawaiian Airlines Inc.,HA,Hawaiian Airlines Inc.,0,2615452,2019-03
+463,HA,Hawaiian Airlines Inc.,HA,Hawaiian Airlines Inc.,0,2742590,2019-06
+464,HA,Hawaiian Airlines Inc.,HA,Hawaiian Airlines Inc.,0,2828870,2019-09
+465,HA,Hawaiian Airlines Inc.,HA,Hawaiian Airlines Inc.,0,2674636,2019-12
+466,HA,Hawaiian Airlines Inc.,HA,Hawaiian Airlines Inc.,1,2185709,2020-03
+467,HA,Hawaiian Airlines Inc.,HA,Hawaiian Airlines Inc.,0,176278,2020-06
+468,HA,Hawaiian Airlines Inc.,HA,Hawaiian Airlines Inc.,0,320241,2020-09
+469,HA,Hawaiian Airlines Inc.,HA,Hawaiian Airlines Inc.,0,469717,2020-12
+470,HA,Hawaiian Airlines Inc.,HA,Hawaiian Airlines Inc.,0,727796,2021-03
+471,HA,Hawaiian Airlines Inc.,HA,Hawaiian Airlines Inc.,0,1717710,2021-06
+472,HA,Hawaiian Airlines Inc.,HA,Hawaiian Airlines Inc.,0,2047990,2021-09
+473,AS,Alaska Airlines Inc.,QX,Horizon Air,143,2203846,2018-03
+474,AS,Alaska Airlines Inc.,QX,Horizon Air,15,1111080,2021-03
+475,AS,Alaska Airlines Inc.,QX,Horizon Air,57,1730321,2021-06
+476,AS,Alaska Airlines Inc.,QX,Horizon Air,50,1899889,2021-09
+477,B6,JetBlue Airways,B6,JetBlue Airways,12,6039231,2010-12
+478,B6,JetBlue Airways,B6,JetBlue Airways,12,6038693,2011-03
+479,B6,JetBlue Airways,B6,JetBlue Airways,0,6622343,2011-06
+480,B6,JetBlue Airways,B6,JetBlue Airways,8,7015965,2011-09
+481,B6,JetBlue Airways,B6,JetBlue Airways,11,6291058,2011-12
+482,B6,JetBlue Airways,B6,JetBlue Airways,4,6371852,2012-03
+483,B6,JetBlue Airways,B6,JetBlue Airways,12,6832293,2012-06
+484,B6,JetBlue Airways,B6,JetBlue Airways,10,7138623,2012-09
+485,B6,JetBlue Airways,B6,JetBlue Airways,13,6573215,2012-12
+486,B6,JetBlue Airways,B6,JetBlue Airways,1,6765286,2013-03
+487,B6,JetBlue Airways,B6,JetBlue Airways,15,7188445,2013-06
+488,B6,JetBlue Airways,B6,JetBlue Airways,2,7381669,2013-09
+489,B6,JetBlue Airways,B6,JetBlue Airways,1,6831371,2013-12
+490,B6,JetBlue Airways,B6,JetBlue Airways,24,6696787,2014-03
+491,B6,JetBlue Airways,B6,JetBlue Airways,70,7489539,2014-06
+492,B6,JetBlue Airways,B6,JetBlue Airways,526,7727979,2014-09
+493,B6,JetBlue Airways,B6,JetBlue Airways,30,7350027,2014-12
+494,B6,JetBlue Airways,B6,JetBlue Airways,39,7357389,2015-03
+495,B6,JetBlue Airways,B6,JetBlue Airways,5,8105136,2015-06
+496,B6,JetBlue Airways,B6,JetBlue Airways,8,8318476,2015-09
+497,B6,JetBlue Airways,B6,JetBlue Airways,21,8168250,2015-12
+498,B6,JetBlue Airways,B6,JetBlue Airways,28,8244033,2016-03
+499,B6,JetBlue Airways,B6,JetBlue Airways,799,8795633,2016-06
+500,B6,JetBlue Airways,B6,JetBlue Airways,1313,8951162,2016-09
+501,B6,JetBlue Airways,B6,JetBlue Airways,1036,8719175,2016-12
+502,B6,JetBlue Airways,B6,JetBlue Airways,1415,8770054,2017-03
+503,B6,JetBlue Airways,B6,JetBlue Airways,42,9355804,2017-06
+504,B6,JetBlue Airways,B6,JetBlue Airways,18,9129180,2017-09
+505,B6,JetBlue Airways,B6,JetBlue Airways,3,8936805,2017-12
+506,B6,JetBlue Airways,B6,JetBlue Airways,7,8927623,2018-03
+507,B6,JetBlue Airways,B6,JetBlue Airways,9,9893611,2018-06
+508,B6,JetBlue Airways,B6,JetBlue Airways,7,9824474,2018-09
+509,B6,JetBlue Airways,B6,JetBlue Airways,13,9351646,2018-12
+510,B6,JetBlue Airways,B6,JetBlue Airways,23,9061253,2019-03
+511,B6,JetBlue Airways,B6,JetBlue Airways,7,9851842,2019-06
+512,B6,JetBlue Airways,B6,JetBlue Airways,8,9760018,2019-09
+513,B6,JetBlue Airways,B6,JetBlue Airways,16,9504092,2019-12
+514,B6,JetBlue Airways,B6,JetBlue Airways,2,7303799,2020-03
+515,B6,JetBlue Airways,B6,JetBlue Airways,0,583894,2020-06
+516,B6,JetBlue Airways,B6,JetBlue Airways,0,1433931,2020-09
+517,B6,JetBlue Airways,B6,JetBlue Airways,0,2560789,2020-12
+518,B6,JetBlue Airways,B6,JetBlue Airways,16,3875067,2021-03
+519,B6,JetBlue Airways,B6,JetBlue Airways,3,6993996,2021-06
+520,B6,JetBlue Airways,B6,JetBlue Airways,24,7813396,2021-09
+521,NA,UNKNOWN,YV,Mesa Airlines Inc.,564,2018689,2010-12
+522,NA,UNKNOWN,YV,Mesa Airlines Inc.,352,2080943,2011-03
+523,NA,UNKNOWN,YV,Mesa Airlines Inc.,541,1794852,2011-06
+524,NA,UNKNOWN,YV,Mesa Airlines Inc.,387,2097955,2011-09
+525,NA,UNKNOWN,YV,Mesa Airlines Inc.,495,1844739,2011-12
+526,NA,UNKNOWN,YV,Mesa Airlines Inc.,446,1877874,2012-03
+527,NA,UNKNOWN,YV,Mesa Airlines Inc.,481,1863476,2012-06
+528,NA,UNKNOWN,YV,Mesa Airlines Inc.,490,1957583,2012-09
+529,NA,UNKNOWN,YV,Mesa Airlines Inc.,512,1899862,2012-12
+530,NA,UNKNOWN,YV,Mesa Airlines Inc.,539,1834793,2013-03
+531,NA,UNKNOWN,YV,Mesa Airlines Inc.,648,2156621,2013-06
+532,NA,UNKNOWN,YV,Mesa Airlines Inc.,517,2298325,2013-09
+533,NA,UNKNOWN,YV,Mesa Airlines Inc.,518,2111954,2013-12
+534,UA,United Air Lines Inc.,YV,Mesa Airlines Inc.,1,1449088,2018-03
+535,NA,UNKNOWN,YV,Mesa Airlines Inc.,47,2864946,2018-03
+536,UA,United Air Lines Inc.,YV,Mesa Airlines Inc.,1,1744496,2018-06
+537,NA,UNKNOWN,YV,Mesa Airlines Inc.,10,3378023,2018-06
+538,UA,United Air Lines Inc.,YV,Mesa Airlines Inc.,0,1907092,2018-09
+539,NA,UNKNOWN,YV,Mesa Airlines Inc.,51,3604845,2018-09
+540,UA,United Air Lines Inc.,YV,Mesa Airlines Inc.,3,1876019,2018-12
+541,NA,UNKNOWN,YV,Mesa Airlines Inc.,101,3536496,2018-12
+542,UA,United Air Lines Inc.,YV,Mesa Airlines Inc.,0,1635422,2019-03
+543,NA,UNKNOWN,YV,Mesa Airlines Inc.,485,3288521,2019-03
+544,UA,United Air Lines Inc.,YV,Mesa Airlines Inc.,0,1859073,2019-06
+545,NA,UNKNOWN,YV,Mesa Airlines Inc.,314,3589375,2019-06
+546,UA,United Air Lines Inc.,YV,Mesa Airlines Inc.,1,1863733,2019-09
+547,NA,UNKNOWN,YV,Mesa Airlines Inc.,88,3599017,2019-09
+548,UA,United Air Lines Inc.,YV,Mesa Airlines Inc.,10,1842690,2019-12
+549,NA,UNKNOWN,YV,Mesa Airlines Inc.,102,3528613,2019-12
+550,UA,United Air Lines Inc.,YV,Mesa Airlines Inc.,0,1331284,2020-03
+551,NA,UNKNOWN,YV,Mesa Airlines Inc.,18,2681520,2020-03
+552,UA,United Air Lines Inc.,YV,Mesa Airlines Inc.,0,275133,2020-06
+553,NA,UNKNOWN,YV,Mesa Airlines Inc.,12,536745,2020-06
+554,UA,United Air Lines Inc.,YV,Mesa Airlines Inc.,0,715706,2020-09
+555,NA,UNKNOWN,YV,Mesa Airlines Inc.,12,1390249,2020-09
+556,UA,United Air Lines Inc.,YV,Mesa Airlines Inc.,0,915698,2020-12
+557,NA,UNKNOWN,YV,Mesa Airlines Inc.,3,1769553,2020-12
+558,UA,United Air Lines Inc.,YV,Mesa Airlines Inc.,0,837668,2021-03
+559,NA,UNKNOWN,YV,Mesa Airlines Inc.,6,1625143,2021-03
+560,UA,United Air Lines Inc.,YV,Mesa Airlines Inc.,7,1281476,2021-06
+561,NA,UNKNOWN,YV,Mesa Airlines Inc.,40,2494135,2021-06
+562,UA,United Air Lines Inc.,YV,Mesa Airlines Inc.,5,1530582,2021-09
+563,NA,UNKNOWN,YV,Mesa Airlines Inc.,26,2721574,2021-09
+564,NA,UNKNOWN,OH,PSA Airlines Inc.,22,3210770,2018-03
+565,NA,UNKNOWN,OH,PSA Airlines Inc.,32,3485505,2018-06
+566,NA,UNKNOWN,OH,PSA Airlines Inc.,42,3404018,2018-09
+567,NA,UNKNOWN,OH,PSA Airlines Inc.,213,3421745,2018-12
+568,NA,UNKNOWN,OH,PSA Airlines Inc.,267,3412630,2019-03
+569,NA,UNKNOWN,OH,PSA Airlines Inc.,487,3905385,2019-06
+570,NA,UNKNOWN,OH,PSA Airlines Inc.,339,3810183,2019-09
+571,NA,UNKNOWN,OH,PSA Airlines Inc.,459,3816412,2019-12
+572,NA,UNKNOWN,OH,PSA Airlines Inc.,204,3039515,2020-03
+573,NA,UNKNOWN,OH,PSA Airlines Inc.,39,852181,2020-06
+574,NA,UNKNOWN,OH,PSA Airlines Inc.,73,1961845,2020-09
+575,NA,UNKNOWN,OH,PSA Airlines Inc.,19,2083641,2020-12
+576,NA,UNKNOWN,OH,PSA Airlines Inc.,8,1922953,2021-03
+577,NA,UNKNOWN,OH,PSA Airlines Inc.,115,3420512,2021-06
+578,NA,UNKNOWN,OH,PSA Airlines Inc.,169,3513875,2021-09
+579,DL,Delta Air Lines Inc.,YX,Republic Airline,0,588586,2018-03
+580,UA,United Air Lines Inc.,YX,Republic Airline,0,1536052,2018-03
+581,NA,UNKNOWN,YX,Republic Airline,32,4050777,2018-03
+582,DL,Delta Air Lines Inc.,YX,Republic Airline,2,810241,2018-06
+583,UA,United Air Lines Inc.,YX,Republic Airline,3,1827387,2018-06
+584,NA,UNKNOWN,YX,Republic Airline,30,4890213,2018-06
+585,DL,Delta Air Lines Inc.,YX,Republic Airline,0,774603,2018-09
+586,UA,United Air Lines Inc.,YX,Republic Airline,0,1734779,2018-09
+587,NA,UNKNOWN,YX,Republic Airline,31,4619387,2018-09
+588,DL,Delta Air Lines Inc.,YX,Republic Airline,0,855098,2018-12
+589,UA,United Air Lines Inc.,YX,Republic Airline,0,1645882,2018-12
+590,NA,UNKNOWN,YX,Republic Airline,103,4548762,2018-12
+591,DL,Delta Air Lines Inc.,YX,Republic Airline,0,735011,2019-03
+592,UA,United Air Lines Inc.,YX,Republic Airline,1,1500034,2019-03
+593,NA,UNKNOWN,YX,Republic Airline,80,4183267,2019-03
+594,DL,Delta Air Lines Inc.,YX,Republic Airline,0,972309,2019-06
+595,UA,United Air Lines Inc.,YX,Republic Airline,0,1722170,2019-06
+596,NA,UNKNOWN,YX,Republic Airline,162,5010539,2019-06
+597,DL,Delta Air Lines Inc.,YX,Republic Airline,0,936427,2019-09
+598,UA,United Air Lines Inc.,YX,Republic Airline,0,1718300,2019-09
+599,NA,UNKNOWN,YX,Republic Airline,219,4900415,2019-09
+600,DL,Delta Air Lines Inc.,YX,Republic Airline,0,1000890,2019-12
+601,UA,United Air Lines Inc.,YX,Republic Airline,1,1701831,2019-12
+602,NA,UNKNOWN,YX,Republic Airline,120,3218312,2019-12
+603,DL,Delta Air Lines Inc.,YX,Republic Airline,0,828294,2020-03
+604,UA,United Air Lines Inc.,YX,Republic Airline,2,1252404,2020-03
+605,NA,UNKNOWN,YX,Republic Airline,85,3098354,2020-03
+606,DL,Delta Air Lines Inc.,YX,Republic Airline,0,40796,2020-06
+607,UA,United Air Lines Inc.,YX,Republic Airline,0,199257,2020-06
+608,NA,UNKNOWN,YX,Republic Airline,21,592187,2020-06
+609,DL,Delta Air Lines Inc.,YX,Republic Airline,0,197973,2020-09
+610,UA,United Air Lines Inc.,YX,Republic Airline,0,699373,2020-09
+611,NA,UNKNOWN,YX,Republic Airline,62,1865200,2020-09
+612,DL,Delta Air Lines Inc.,YX,Republic Airline,0,404238,2020-12
+613,UA,United Air Lines Inc.,YX,Republic Airline,0,856347,2020-12
+614,NA,UNKNOWN,YX,Republic Airline,21,2613252,2020-12
+615,DL,Delta Air Lines Inc.,YX,Republic Airline,0,805127,2021-03
+616,UA,United Air Lines Inc.,YX,Republic Airline,0,842741,2021-03
+617,NA,UNKNOWN,YX,Republic Airline,31,3171190,2021-03
+618,DL,Delta Air Lines Inc.,YX,Republic Airline,0,1509387,2021-06
+619,UA,United Air Lines Inc.,YX,Republic Airline,0,1195078,2021-06
+620,NA,UNKNOWN,YX,Republic Airline,111,5160977,2021-06
+621,DL,Delta Air Lines Inc.,YX,Republic Airline,0,1466462,2021-09
+622,UA,United Air Lines Inc.,YX,Republic Airline,10,1523184,2021-09
+623,NA,UNKNOWN,YX,Republic Airline,178,5525714,2021-09
+624,NA,UNKNOWN,OO,SkyWest Airlines Inc.,346,6006681,2010-12
+625,NA,UNKNOWN,OO,SkyWest Airlines Inc.,453,5714175,2011-03
+626,NA,UNKNOWN,OO,SkyWest Airlines Inc.,336,6210623,2011-06
+627,NA,UNKNOWN,OO,SkyWest Airlines Inc.,482,6624658,2011-09
+628,NA,UNKNOWN,OO,SkyWest Airlines Inc.,406,6009979,2011-12
+629,NA,UNKNOWN,OO,SkyWest Airlines Inc.,972,5942158,2012-03
+630,NA,UNKNOWN,OO,SkyWest Airlines Inc.,1630,6637699,2012-06
+631,NA,UNKNOWN,OO,SkyWest Airlines Inc.,1577,6868429,2012-09
+632,NA,UNKNOWN,OO,SkyWest Airlines Inc.,1811,6419001,2012-12
+633,NA,UNKNOWN,OO,SkyWest Airlines Inc.,1843,6314061,2013-03
+634,NA,UNKNOWN,OO,SkyWest Airlines Inc.,1436,6875131,2013-06
+635,NA,UNKNOWN,OO,SkyWest Airlines Inc.,1328,6933277,2013-09
+636,NA,UNKNOWN,OO,SkyWest Airlines Inc.,2161,6395843,2013-12
+637,NA,UNKNOWN,OO,SkyWest Airlines Inc.,2629,6149038,2014-03
+638,NA,UNKNOWN,OO,SkyWest Airlines Inc.,1836,6861891,2014-06
+639,NA,UNKNOWN,OO,SkyWest Airlines Inc.,1373,6752821,2014-09
+640,NA,UNKNOWN,OO,SkyWest Airlines Inc.,1332,6656843,2014-12
+641,NA,UNKNOWN,OO,SkyWest Airlines Inc.,1630,6458573,2015-03
+642,NA,UNKNOWN,OO,SkyWest Airlines Inc.,1739,7403792,2015-06
+643,NA,UNKNOWN,OO,SkyWest Airlines Inc.,924,7710341,2015-09
+644,NA,UNKNOWN,OO,SkyWest Airlines Inc.,786,6990054,2015-12
+645,NA,UNKNOWN,OO,SkyWest Airlines Inc.,709,6858709,2016-03
+646,NA,UNKNOWN,OO,SkyWest Airlines Inc.,714,7755643,2016-06
+647,NA,UNKNOWN,OO,SkyWest Airlines Inc.,754,7961031,2016-09
+648,NA,UNKNOWN,OO,SkyWest Airlines Inc.,758,7411535,2016-12
+649,NA,UNKNOWN,OO,SkyWest Airlines Inc.,622,7201623,2017-03
+650,NA,UNKNOWN,OO,SkyWest Airlines Inc.,217,8351684,2017-06
+651,NA,UNKNOWN,OO,SkyWest Airlines Inc.,78,8963047,2017-09
+652,NA,UNKNOWN,OO,SkyWest Airlines Inc.,68,8776536,2017-12
+653,DL,Delta Air Lines Inc.,OO,SkyWest Airlines Inc.,2,3090524,2018-03
+654,UA,United Air Lines Inc.,OO,SkyWest Airlines Inc.,13,3123298,2018-03
+655,NA,UNKNOWN,OO,SkyWest Airlines Inc.,88,8060076,2018-03
+656,DL,Delta Air Lines Inc.,OO,SkyWest Airlines Inc.,2,3520084,2018-06
+657,UA,United Air Lines Inc.,OO,SkyWest Airlines Inc.,2,3557763,2018-06
+658,NA,UNKNOWN,OO,SkyWest Airlines Inc.,206,9125575,2018-06
+659,DL,Delta Air Lines Inc.,OO,SkyWest Airlines Inc.,0,3788704,2018-09
+660,UA,United Air Lines Inc.,OO,SkyWest Airlines Inc.,5,3770661,2018-09
+661,NA,UNKNOWN,OO,SkyWest Airlines Inc.,95,9676146,2018-09
+662,DL,Delta Air Lines Inc.,OO,SkyWest Airlines Inc.,0,3708194,2018-12
+663,UA,United Air Lines Inc.,OO,SkyWest Airlines Inc.,4,3439399,2018-12
+664,NA,UNKNOWN,OO,SkyWest Airlines Inc.,160,9210026,2018-12
+665,DL,Delta Air Lines Inc.,OO,SkyWest Airlines Inc.,2,3461197,2019-03
+666,UA,United Air Lines Inc.,OO,SkyWest Airlines Inc.,3,3105679,2019-03
+667,NA,UNKNOWN,OO,SkyWest Airlines Inc.,233,8697930,2019-03
+668,DL,Delta Air Lines Inc.,OO,SkyWest Airlines Inc.,0,4120933,2019-06
+669,UA,United Air Lines Inc.,OO,SkyWest Airlines Inc.,2,3716699,2019-06
+670,NA,UNKNOWN,OO,SkyWest Airlines Inc.,213,10320910,2019-06
+671,DL,Delta Air Lines Inc.,OO,SkyWest Airlines Inc.,0,4115434,2019-09
+672,UA,United Air Lines Inc.,OO,SkyWest Airlines Inc.,1,3824514,2019-09
+673,NA,UNKNOWN,OO,SkyWest Airlines Inc.,203,10472196,2019-09
+674,DL,Delta Air Lines Inc.,OO,SkyWest Airlines Inc.,0,3896257,2019-12
+675,UA,United Air Lines Inc.,OO,SkyWest Airlines Inc.,0,3710262,2019-12
+676,NA,UNKNOWN,OO,SkyWest Airlines Inc.,116,10085483,2019-12
+677,DL,Delta Air Lines Inc.,OO,SkyWest Airlines Inc.,5,3430561,2020-03
+678,UA,United Air Lines Inc.,OO,SkyWest Airlines Inc.,2,2919221,2020-03
+679,NA,UNKNOWN,OO,SkyWest Airlines Inc.,211,8355310,2020-03
+680,DL,Delta Air Lines Inc.,OO,SkyWest Airlines Inc.,0,436381,2020-06
+681,UA,United Air Lines Inc.,OO,SkyWest Airlines Inc.,0,615459,2020-06
+682,NA,UNKNOWN,OO,SkyWest Airlines Inc.,36,1642807,2020-06
+683,DL,Delta Air Lines Inc.,OO,SkyWest Airlines Inc.,0,1355165,2020-09
+684,UA,United Air Lines Inc.,OO,SkyWest Airlines Inc.,0,1952763,2020-09
+685,NA,UNKNOWN,OO,SkyWest Airlines Inc.,33,4650686,2020-09
+686,DL,Delta Air Lines Inc.,OO,SkyWest Airlines Inc.,0,1304622,2020-12
+687,UA,United Air Lines Inc.,OO,SkyWest Airlines Inc.,0,2407499,2020-12
+688,NA,UNKNOWN,OO,SkyWest Airlines Inc.,5,5122330,2020-12
+689,DL,Delta Air Lines Inc.,OO,SkyWest Airlines Inc.,0,1670694,2021-03
+690,UA,United Air Lines Inc.,OO,SkyWest Airlines Inc.,0,2210832,2021-03
+691,NA,UNKNOWN,OO,SkyWest Airlines Inc.,26,5427962,2021-03
+692,DL,Delta Air Lines Inc.,OO,SkyWest Airlines Inc.,0,2991760,2021-06
+693,UA,United Air Lines Inc.,OO,SkyWest Airlines Inc.,5,3334302,2021-06
+694,NA,UNKNOWN,OO,SkyWest Airlines Inc.,86,8943583,2021-06
+695,DL,Delta Air Lines Inc.,OO,SkyWest Airlines Inc.,0,3643751,2021-09
+696,UA,United Air Lines Inc.,OO,SkyWest Airlines Inc.,0,4051483,2021-09
+697,NA,UNKNOWN,OO,SkyWest Airlines Inc.,37,10489689,2021-09
+698,NA,UNKNOWN,US,US Airways Inc.,1204,13192128,2010-12
+699,WN,Southwest Airlines Co.,WN,Southwest Airlines Co.,2062,27178950,2010-12
+700,WN,Southwest Airlines Co.,WN,Southwest Airlines Co.,2167,25637423,2011-03
+701,WN,Southwest Airlines Co.,WN,Southwest Airlines Co.,2102,28919972,2011-06
+702,WN,Southwest Airlines Co.,WN,Southwest Airlines Co.,1583,28539135,2011-09
+703,WN,Southwest Airlines Co.,WN,Southwest Airlines Co.,1364,27712179,2011-12
+704,WN,Southwest Airlines Co.,WN,Southwest Airlines Co.,1964,26029507,2012-03
+705,WN,Southwest Airlines Co.,WN,Southwest Airlines Co.,3090,29290547,2012-06
+706,WN,Southwest Airlines Co.,WN,Southwest Airlines Co.,2341,29334383,2012-09
+707,WN,Southwest Airlines Co.,WN,Southwest Airlines Co.,2095,27876734,2012-12
+708,WN,Southwest Airlines Co.,WN,Southwest Airlines Co.,3185,26269242,2013-03
+709,WN,Southwest Airlines Co.,WN,Southwest Airlines Co.,4538,30575862,2013-06
+710,WN,Southwest Airlines Co.,WN,Southwest Airlines Co.,2550,29421835,2013-09
+711,WN,Southwest Airlines Co.,WN,Southwest Airlines Co.,1948,29378897,2013-12
+712,WN,Southwest Airlines Co.,WN,Southwest Airlines Co.,3375,28019628,2014-03
+713,WN,Southwest Airlines Co.,WN,Southwest Airlines Co.,3605,22614856,2014-06
+714,WN,Southwest Airlines Co.,WN,Southwest Airlines Co.,3197,33271343,2014-09
+715,WN,Southwest Airlines Co.,WN,Southwest Airlines Co.,1864,32903774,2014-12
+716,WN,Southwest Airlines Co.,WN,Southwest Airlines Co.,3326,31993058,2015-03
+717,WN,Southwest Airlines Co.,WN,Southwest Airlines Co.,4436,37496853,2015-06
+718,WN,Southwest Airlines Co.,WN,Southwest Airlines Co.,4413,37603390,2015-09
+719,WN,Southwest Airlines Co.,WN,Southwest Airlines Co.,3433,36839451,2015-12
+720,WN,Southwest Airlines Co.,WN,Southwest Airlines Co.,3116,34393320,2016-03
+721,WN,Southwest Airlines Co.,WN,Southwest Airlines Co.,4209,39198316,2016-06
+722,WN,Southwest Airlines Co.,WN,Southwest Airlines Co.,4582,38561412,2016-09
+723,WN,Southwest Airlines Co.,WN,Southwest Airlines Co.,3072,38502306,2016-12
+724,WN,Southwest Airlines Co.,WN,Southwest Airlines Co.,2537,35246083,2017-03
+725,WN,Southwest Airlines Co.,WN,Southwest Airlines Co.,2642,40991267,2017-06
+726,WN,Southwest Airlines Co.,WN,Southwest Airlines Co.,1499,39751638,2017-09
+727,WN,Southwest Airlines Co.,WN,Southwest Airlines Co.,1601,39969392,2017-12
+728,WN,Southwest Airlines Co.,WN,Southwest Airlines Co.,669,37042370,2018-03
+729,WN,Southwest Airlines Co.,WN,Southwest Airlines Co.,376,42329176,2018-06
+730,WN,Southwest Airlines Co.,WN,Southwest Airlines Co.,967,40839016,2018-09
+731,WN,Southwest Airlines Co.,WN,Southwest Airlines Co.,411,41306125,2018-12
+732,WN,Southwest Airlines Co.,WN,Southwest Airlines Co.,1594,37409141,2019-03
+733,WN,Southwest Airlines Co.,WN,Southwest Airlines Co.,931,42176361,2019-06
+734,WN,Southwest Airlines Co.,WN,Southwest Airlines Co.,314,40777514,2019-09
+735,WN,Southwest Airlines Co.,WN,Southwest Airlines Co.,269,40839000,2019-12
+736,WN,Southwest Airlines Co.,WN,Southwest Airlines Co.,112,29539107,2020-03
+737,WN,Southwest Airlines Co.,WN,Southwest Airlines Co.,110,7058890,2020-06
+738,WN,Southwest Airlines Co.,WN,Southwest Airlines Co.,148,15080946,2020-09
+739,WN,Southwest Airlines Co.,WN,Southwest Airlines Co.,28,15891567,2020-12
+740,WN,Southwest Airlines Co.,WN,Southwest Airlines Co.,192,17846213,2021-03
+741,WN,Southwest Airlines Co.,WN,Southwest Airlines Co.,1314,32534837,2021-06
+742,WN,Southwest Airlines Co.,WN,Southwest Airlines Co.,1207,36276768,2021-09
+743,NK,Spirit Air Lines,NK,Spirit Air Lines,114,3728874,2015-03
+744,NK,Spirit Air Lines,NK,Spirit Air Lines,624,4208617,2015-06
+745,NK,Spirit Air Lines,NK,Spirit Air Lines,209,4441767,2015-09
+746,NK,Spirit Air Lines,NK,Spirit Air Lines,235,4410192,2015-12
+747,NK,Spirit Air Lines,NK,Spirit Air Lines,483,4704094,2016-03
+748,NK,Spirit Air Lines,NK,Spirit Air Lines,568,5242171,2016-06
+749,NK,Spirit Air Lines,NK,Spirit Air Lines,181,5053081,2016-09
+750,NK,Spirit Air Lines,NK,Spirit Air Lines,196,5052694,2016-12
+751,NK,Spirit Air Lines,NK,Spirit Air Lines,755,5084347,2017-03
+752,NK,Spirit Air Lines,NK,Spirit Air Lines,1519,5838917,2017-06
+753,NK,Spirit Air Lines,NK,Spirit Air Lines,1235,5956218,2017-09
+754,NK,Spirit Air Lines,NK,Spirit Air Lines,1144,5804607,2017-12
+755,NK,Spirit Air Lines,NK,Spirit Air Lines,874,6180877,2018-03
+756,NK,Spirit Air Lines,NK,Spirit Air Lines,448,7061549,2018-06
+757,NK,Spirit Air Lines,NK,Spirit Air Lines,164,7328762,2018-09
+758,NK,Spirit Air Lines,NK,Spirit Air Lines,43,6897416,2018-12
+759,NK,Spirit Air Lines,NK,Spirit Air Lines,46,7265473,2019-03
+760,NK,Spirit Air Lines,NK,Spirit Air Lines,149,8335320,2019-06
+761,NK,Spirit Air Lines,NK,Spirit Air Lines,64,8390933,2019-09
+762,NK,Spirit Air Lines,NK,Spirit Air Lines,121,8276219,2019-12
+763,NK,Spirit Air Lines,NK,Spirit Air Lines,67,7195275,2020-03
+764,NK,Spirit Air Lines,NK,Spirit Air Lines,2,871869,2020-06
+765,NK,Spirit Air Lines,NK,Spirit Air Lines,0,4483592,2020-09
+766,NK,Spirit Air Lines,NK,Spirit Air Lines,99,5010558,2020-12
+767,NK,Spirit Air Lines,NK,Spirit Air Lines,111,5236309,2021-03
+768,NK,Spirit Air Lines,NK,Spirit Air Lines,85,7963642,2021-06
+769,NK,Spirit Air Lines,NK,Spirit Air Lines,84,7797518,2021-09
+770,UA,United Air Lines Inc.,AX,Trans States Airlines,6,574761,2018-03
+771,UA,United Air Lines Inc.,AX,Trans States Airlines,0,629121,2018-06
+772,UA,United Air Lines Inc.,AX,Trans States Airlines,1,651222,2018-09
+773,UA,United Air Lines Inc.,AX,Trans States Airlines,0,679057,2018-12
+774,UA,United Air Lines Inc.,AX,Trans States Airlines,0,689523,2019-03
+775,UA,United Air Lines Inc.,AX,Trans States Airlines,0,775025,2019-06
+776,UA,United Air Lines Inc.,AX,Trans States Airlines,4,796102,2019-09
+777,UA,United Air Lines Inc.,AX,Trans States Airlines,1,757328,2019-12
+778,UA,United Air Lines Inc.,AX,Trans States Airlines,0,585826,2020-03
+779,UA,United Air Lines Inc.,AX,Trans States Airlines,0,111,2020-06
+780,UA,United Air Lines Inc.,UA,United Air Lines Inc.,1181,11805553,2010-12
+781,UA,United Air Lines Inc.,UA,United Air Lines Inc.,1193,10504227,2011-03
+782,UA,United Air Lines Inc.,UA,United Air Lines Inc.,1009,11791428,2011-06
+783,UA,United Air Lines Inc.,UA,United Air Lines Inc.,1456,12287697,2011-09
+784,UA,United Air Lines Inc.,UA,United Air Lines Inc.,912,10601398,2011-12
+785,UA,United Air Lines Inc.,UA,United Air Lines Inc.,3084,17850152,2012-03
+786,UA,United Air Lines Inc.,UA,United Air Lines Inc.,4450,21099463,2012-06
+787,UA,United Air Lines Inc.,UA,United Air Lines Inc.,4014,21082126,2012-09
+788,UA,United Air Lines Inc.,UA,United Air Lines Inc.,2846,18696707,2012-12
+789,UA,United Air Lines Inc.,UA,United Air Lines Inc.,2592,18143463,2013-03
+790,UA,United Air Lines Inc.,UA,United Air Lines Inc.,1856,19942776,2013-06
+791,UA,United Air Lines Inc.,UA,United Air Lines Inc.,1966,20156960,2013-09
+792,UA,United Air Lines Inc.,UA,United Air Lines Inc.,2601,18969272,2013-12
+793,UA,United Air Lines Inc.,UA,United Air Lines Inc.,4395,17894200,2014-03
+794,UA,United Air Lines Inc.,UA,United Air Lines Inc.,2171,20144390,2014-06
+795,UA,United Air Lines Inc.,UA,United Air Lines Inc.,1530,20332343,2014-09
+796,UA,United Air Lines Inc.,UA,United Air Lines Inc.,982,18946348,2014-12
+797,UA,United Air Lines Inc.,UA,United Air Lines Inc.,1817,18105638,2015-03
+798,UA,United Air Lines Inc.,UA,United Air Lines Inc.,1647,21166446,2015-06
+799,UA,United Air Lines Inc.,UA,United Air Lines Inc.,1378,21879356,2015-09
+800,UA,United Air Lines Inc.,UA,United Air Lines Inc.,1475,20930474,2015-12
+801,UA,United Air Lines Inc.,UA,United Air Lines Inc.,929,18965779,2016-03
+802,UA,United Air Lines Inc.,UA,United Air Lines Inc.,871,22035418,2016-06
+803,UA,United Air Lines Inc.,UA,United Air Lines Inc.,1074,23436935,2016-09
+804,UA,United Air Lines Inc.,UA,United Air Lines Inc.,891,22398395,2016-12
+805,UA,United Air Lines Inc.,UA,United Air Lines Inc.,900,20559648,2017-03
+806,UA,United Air Lines Inc.,UA,United Air Lines Inc.,1064,24401584,2017-06
+807,UA,United Air Lines Inc.,UA,United Air Lines Inc.,103,25069533,2017-09
+808,UA,United Air Lines Inc.,UA,United Air Lines Inc.,44,23766600,2017-12
+809,UA,United Air Lines Inc.,UA,United Air Lines Inc.,27,21314280,2018-03
+810,UA,United Air Lines Inc.,UA,United Air Lines Inc.,17,25966562,2018-06
+811,UA,United Air Lines Inc.,UA,United Air Lines Inc.,26,27080182,2018-09
+812,UA,United Air Lines Inc.,UA,United Air Lines Inc.,23,25234539,2018-12
+813,UA,United Air Lines Inc.,UA,United Air Lines Inc.,17,22660404,2019-03
+814,UA,United Air Lines Inc.,UA,United Air Lines Inc.,28,27015815,2019-06
+815,UA,United Air Lines Inc.,UA,United Air Lines Inc.,7,26963748,2019-09
+816,UA,United Air Lines Inc.,UA,United Air Lines Inc.,13,25141731,2019-12
+817,UA,United Air Lines Inc.,UA,United Air Lines Inc.,7,18412040,2020-03
+818,UA,United Air Lines Inc.,UA,United Air Lines Inc.,0,1333318,2020-06
+819,UA,United Air Lines Inc.,UA,United Air Lines Inc.,8,5211611,2020-09
+820,UA,United Air Lines Inc.,UA,United Air Lines Inc.,5,8860807,2020-12
+821,UA,United Air Lines Inc.,UA,United Air Lines Inc.,0,8723919,2021-03
+822,UA,United Air Lines Inc.,UA,United Air Lines Inc.,5,14619155,2021-06
+823,UA,United Air Lines Inc.,UA,United Air Lines Inc.,6,20131527,2021-09
+824,NA,UNKNOWN,US,US Airways Inc.,1177,12705868,2011-03
+825,NA,UNKNOWN,US,US Airways Inc.,1590,14011454,2011-06
+826,NA,UNKNOWN,US,US Airways Inc.,1120,13743223,2011-09
+827,NA,UNKNOWN,US,US Airways Inc.,1156,13334767,2011-12
+828,NA,UNKNOWN,US,US Airways Inc.,974,13514441,2012-03
+829,NA,UNKNOWN,US,US Airways Inc.,1073,14144925,2012-06
+830,NA,UNKNOWN,US,US Airways Inc.,989,14000602,2012-09
+831,NA,UNKNOWN,US,US Airways Inc.,719,13577101,2012-12
+832,NA,UNKNOWN,US,US Airways Inc.,1006,13761795,2013-03
+833,NA,UNKNOWN,US,US Airways Inc.,985,14993178,2013-06
+834,NA,UNKNOWN,US,US Airways Inc.,756,14851237,2013-09
+835,NA,UNKNOWN,US,US Airways Inc.,784,14228483,2013-12
+836,NA,UNKNOWN,US,US Airways Inc.,1125,14051796,2014-03
+837,NA,UNKNOWN,US,US Airways Inc.,1608,15449001,2014-06
+838,NA,UNKNOWN,US,US Airways Inc.,795,14994856,2014-09
+839,NA,UNKNOWN,US,US Airways Inc.,755,14187328,2014-12
+840,NA,UNKNOWN,US,US Airways Inc.,1225,15061853,2015-03
+841,NA,UNKNOWN,US,US Airways Inc.,1156,16073671,2015-06
+842,VX,Virgin America,VX,Virgin America,12,1402246,2012-03
+843,VX,Virgin America,VX,Virgin America,4,1600351,2012-06
+844,VX,Virgin America,VX,Virgin America,11,1663716,2012-09
+845,VX,Virgin America,VX,Virgin America,18,1499063,2012-12
+846,VX,Virgin America,VX,Virgin America,11,1319210,2013-03
+847,VX,Virgin America,VX,Virgin America,12,1708688,2013-06
+848,VX,Virgin America,VX,Virgin America,2,1661469,2013-09
+849,VX,Virgin America,VX,Virgin America,1,1555207,2013-12
+850,VX,Virgin America,VX,Virgin America,25,1459461,2014-03
+851,VX,Virgin America,VX,Virgin America,11,1703282,2014-06
+852,VX,Virgin America,VX,Virgin America,5,1677222,2014-09
+853,VX,Virgin America,VX,Virgin America,16,1598058,2014-12
+854,VX,Virgin America,VX,Virgin America,5,1510065,2015-03
+855,VX,Virgin America,VX,Virgin America,15,1772262,2015-06
+856,VX,Virgin America,VX,Virgin America,17,1813533,2015-09
+857,VX,Virgin America,VX,Virgin America,43,1832945,2015-12
+858,VX,Virgin America,VX,Virgin America,30,1739517,2016-03
+859,VX,Virgin America,VX,Virgin America,16,2050950,2016-06
+860,VX,Virgin America,VX,Virgin America,31,2137471,2016-09
+861,VX,Virgin America,VX,Virgin America,17,2017391,2016-12
+862,VX,Virgin America,VX,Virgin America,51,1803849,2017-03
+863,VX,Virgin America,VX,Virgin America,111,2100967,2017-06
+864,VX,Virgin America,VX,Virgin America,3,2185213,2017-09
+865,VX,Virgin America,VX,Virgin America,71,2193909,2017-12
+866,VX,Virgin America,VX,Virgin America,22,2045185,2018-03
+867,NA,UNKNOWN,OW,,77,526952,2011-03
+868,AA,American Airlines Inc.,AA,American Airlines Inc.,1809,13094377,2019-03
+869,AS,Alaska Airlines Inc.,AS,Alaska Airlines Inc.,116,2502296,2019-03
+870,HA,Hawaiian Airlines Inc.,HA,Hawaiian Airlines Inc.,0,52776,2019-03
+871,AA,American Airlines Inc.,AA,American Airlines Inc.,1929,15183390,2019-06
+872,AS,Alaska Airlines Inc.,AS,Alaska Airlines Inc.,122,2749500,2019-06
+873,HA,Hawaiian Airlines Inc.,HA,Hawaiian Airlines Inc.,0,57004,2019-06
+874,AA,American Airlines Inc.,AA,American Airlines Inc.,1591,15114574,2019-09
+875,AS,Alaska Airlines Inc.,AS,Alaska Airlines Inc.,60,2826987,2019-09
+876,HA,Hawaiian Airlines Inc.,HA,Hawaiian Airlines Inc.,0,55769,2019-09
+877,AA,American Airlines Inc.,AA,American Airlines Inc.,1578,14825816,2019-12
+878,AS,Alaska Airlines Inc.,AS,Alaska Airlines Inc.,54,2837052,2019-12
+879,HA,Hawaiian Airlines Inc.,HA,Hawaiian Airlines Inc.,0,50602,2019-12
+880,AA,American Airlines Inc.,AA,American Airlines Inc.,1047,11606872,2020-03
+881,AS,Alaska Airlines Inc.,AS,Alaska Airlines Inc.,45,2200742,2020-03
+882,HA,Hawaiian Airlines Inc.,HA,Hawaiian Airlines Inc.,0,41713,2020-03
+883,AA,American Airlines Inc.,AA,American Airlines Inc.,124,2886418,2020-06
+884,AS,Alaska Airlines Inc.,AS,Alaska Airlines Inc.,45,640409,2020-06
+885,HA,Hawaiian Airlines Inc.,HA,Hawaiian Airlines Inc.,0,5921,2020-06
+886,AA,American Airlines Inc.,AA,American Airlines Inc.,355,6810260,2020-09
+887,AS,Alaska Airlines Inc.,AS,Alaska Airlines Inc.,4,1529125,2020-09
+888,HA,Hawaiian Airlines Inc.,HA,Hawaiian Airlines Inc.,0,10866,2020-09
+889,AA,American Airlines Inc.,AA,American Airlines Inc.,78,7755943,2020-12
+890,AS,Alaska Airlines Inc.,AS,Alaska Airlines Inc.,1,1359127,2020-12
+891,HA,Hawaiian Airlines Inc.,HA,Hawaiian Airlines Inc.,0,7641,2020-12
+892,AA,American Airlines Inc.,AA,American Airlines Inc.,104,8034815,2021-03
+893,AS,Alaska Airlines Inc.,AS,Alaska Airlines Inc.,18,1604818,2021-03
+894,HA,Hawaiian Airlines Inc.,HA,Hawaiian Airlines Inc.,0,1502,2021-03
+895,AA,American Airlines Inc.,AA,American Airlines Inc.,480,13239499,2021-06
+896,AS,Alaska Airlines Inc.,AS,Alaska Airlines Inc.,77,2650265,2021-06
+897,AA,American Airlines Inc.,AA,American Airlines Inc.,508,13805973,2021-09
+898,AS,Alaska Airlines Inc.,AS,Alaska Airlines Inc.,63,2845055,2021-09
